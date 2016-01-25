@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="express_name_cn">
+        <item>中通</item>
+        <item>申通</item>
+        <item>韵达</item>
+        <item>天天</item>
+        <item>顺丰</item>
+        <item>圆通</item>
+        <item>汇通</item>
+        <item>EMS</item>
+        <item>邮政包裹</item>
+        <item>快捷快递</item>
+    </string-array>
+    <string-array name="express_name_en">
+        <item>zhongtong</item>
+        <item>shentong</item>
+        <item>yunda</item>
+        <item>tiantian</item>
+        <item>shunfeng</item>
+        <item>yuantong</item>
+        <item>huitong</item>
+        <item>ems</item>
+        <item>pingyou</item>
+        <item>kuaijie</item>
+    </string-array>
+</resources>
