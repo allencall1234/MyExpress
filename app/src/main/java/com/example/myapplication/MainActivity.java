@@ -334,5 +334,6 @@ public class MainActivity extends AppCompatActivity {
         }
         mToast.setText(s);
         mToast.show();
+	Log.i("zlt","show Toast");
     }
 }
